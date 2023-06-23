@@ -1,5 +1,5 @@
 # indexedDB note taker
-This is a simple web page for learning the usage of IndexedDb and localStorage in browser.Using basic CRUD operations by the browser inbuilt methods.
+This is a simple web page for learning the usage of IndexedDbin browser.Using basic CRUD operations by the browser inbuilt methods.
 ## Usage
 1. Clone this repositry using git clone https://github.com/albe68/indexedDB-and-localStorage.git
 2. Open the index.html file.
